@@ -1,0 +1,216 @@
+{
+  "colleges": [
+    {
+      "id": 1,
+      "name": "BITS Pilani",
+      "rating": "5",
+      "username": "bits",
+      "password": "bits",
+      "place": "On Campus, Distance, Education",
+      "location": "Pune",
+      "streamsAvailable": "Computer Science Engineering, Chemical Engineering, Mechanical Engineering",
+      "Rank": "Ranked 27 for overall by NIRF 2020",
+      "code": "BP57",
+      "year": "1957",
+      "contact": "917827838",
+      "achievements": "This is an achievement",
+      "degrees": [
+        {
+          "streams": "Engineering",
+          "values": [
+            {
+              "course": "ECE",
+              "available": true
+            },
+            {
+              "course": "EEE",
+              "available": true
+            },
+            {
+              "course": "CSE",
+              "available": true
+            },
+            {
+              "course": "IT",
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Loyola College",
+      "rating": "4",
+      "username": "loyola",
+      "password": "loyola",
+      "place": "On Campus, Distance, Education",
+      "location": "Pune",
+      "streamsAvailable": "Computer Science Engineering, Chemical Engineering, Mechanical Engineering",
+      "Rank": "Ranked 27 for overall by NIRF 2020",
+      "code": "LC63",
+      "year": "1963",
+      "contact": "044228899",
+      "achievements": "This is an achievement",
+      "degrees": [
+        {
+          "streams": "Engineering",
+          "values": [
+            {
+              "course": "ECE",
+              "available": true
+            },
+            {
+              "course": "EEE",
+              "available": true
+            },
+            {
+              "course": "CSE",
+              "available": true
+            },
+            {
+              "course": "IT",
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "IGNOU",
+      "rating": "4",
+      "username": "ignou",
+      "password": "ignou",
+      "place": "On Campus, Distance, Education",
+      "location": "Chennai",
+      "streamsAvailable": "Computer Science Engineering, Chemical Engineering, Mechanical Engineering",
+      "Rank": "Ranked 27 for overall by NIRF 2020",
+      "code": "IG85",
+      "year": "1985",
+      "contact": "333987512",
+      "achievements": "This is an achievement",
+      "degrees": [
+        {
+          "streams": "Engineering",
+          "values": [
+            {
+              "course": "ECE",
+              "available": true
+            },
+            {
+              "course": "EEE",
+              "available": true
+            },
+            {
+              "course": "CSE",
+              "available": true
+            },
+            {
+              "course": "IT",
+              "available": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Emily",
+      "age": "28",
+      "username": "emily",
+      "password": "emily",
+      "gender": "female",
+      "contact": 9876543210
+    },
+    {
+      "id": 2,
+      "name": "Selena",
+      "age": "25",
+      "username": "selena",
+      "password": "selena",
+      "gender": "female",
+      "contact": 7970943210
+    }
+  ],
+  "applications": [
+    {
+      "collegename": "BITS Pilani",
+      "studentname": "Emily",
+      "studentgender": "female",
+      "studentcontact": 9876543210,
+      "status": "Hold",
+      "course": "ECE",
+      "stream": "Engineering",
+      "id": 1
+    },
+    {
+      "collegename": "IGNOU",
+      "studentname": "Emily",
+      "studentgender": "female",
+      "studentcontact": 9876543210,
+      "trackingid": "1614955544121IG85",
+      "status": "Accepted",
+      "course": "CSE",
+      "stream": "Engineering",
+      "id": 2
+    },
+    {
+      "collegename": "Loyola College",
+      "studentname": "Emily",
+      "studentgender": "female",
+      "studentcontact": 9876543210,
+      "trackingid": "1614955607255LC63",
+      "status": "Accepted",
+      "course": "ECE",
+      "stream": "Engineering",
+      "id": 3
+    },
+    {
+      "collegename": "BITS Pilani",
+      "studentname": "Selena",
+      "studentgender": "female",
+      "studentcontact": 7970943210,
+      "trackingid": "1615203299891BP57",
+      "status": "Accepted",
+      "course": "EEE",
+      "stream": "Engineering",
+      "id": 4
+    },
+    {
+      "collegename": "Loyola College",
+      "studentname": "Selena",
+      "studentgender": "female",
+      "studentcontact": 7970943210,
+      "trackingid": "1615362879733LC63",
+      "status": "Hold",
+      "course": "IT",
+      "stream": "Engineering",
+      "id": 5
+    },
+    {
+      "collegename": "IGNOU",
+      "studentname": "Selena",
+      "studentgender": "female",
+      "studentcontact": 7970943210,
+      "trackingid": "1615362991981IG85",
+      "status": "Applied",
+      "course": "ECE",
+      "stream": "Engineering",
+      "id": 6
+    },
+    {
+      "collegename": "BITS Pilani",
+      "studentname": "Emily",
+      "studentgender": "female",
+      "studentcontact": 9876543210,
+      "trackingid": "1615363237333BP57",
+      "status": "Applied",
+      "course": "IT",
+      "stream": "Engineering",
+      "id": 7
+    }
+  ]
+}

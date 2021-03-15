@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`College should render with params 1`] = `
+<div
+  className="row"
+  style={
+    Object {
+      "marginTop": "20px",
+    }
+  }
+>
+  <div
+    className="col-md-8"
+  >
+    <div
+      className="card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Applied at 
+          BITS Pilani
+        </div>
+        <p
+          className="card-text"
+        >
+          <i>
+            <strong>
+              Name: 
+            </strong>
+            Emily
+          </i>
+          <p>
+             
+            <strong>
+              Gender: 
+            </strong>
+            female
+          </p>
+          <p>
+            <strong>
+              Course applied: 
+            </strong>
+            ECE
+          </p>
+          <p>
+            <strong>
+              Contact: 
+            </strong>
+            9876543210
+          </p>
+        </p>
+        <div />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`College should render without params 1`] = `
+<div
+  className="row"
+  style={
+    Object {
+      "marginTop": "20px",
+    }
+  }
+>
+  <div
+    className="col-md-8"
+  >
+    <div
+      className="card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Applied at 
+          BITS Pilani
+        </div>
+        <p
+          className="card-text"
+        >
+          <i>
+            <strong>
+              Name: 
+            </strong>
+            Emily
+          </i>
+          <p>
+             
+            <strong>
+              Gender: 
+            </strong>
+            female
+          </p>
+          <p>
+            <strong>
+              Course applied: 
+            </strong>
+            ECE
+          </p>
+          <p>
+            <strong>
+              Contact: 
+            </strong>
+            9876543210
+          </p>
+        </p>
+        <div />
+      </div>
+    </div>
+  </div>
+</div>
+`;
